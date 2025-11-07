@@ -85,7 +85,7 @@ A **hybrid retrieval mechanism** was implemented for optimal performance:
 * **Retrieval Algorithms:** Dense, Sparse (BM25), MMR
 
 ---
-
+![image alt](https://github.com/Shaurya23102/Insurace_claim_rag/blob/main/Screenshot%202025-11-08%20000625.png?raw=true)
 
 
 
